@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=garug&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=garug&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **garug/garug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
